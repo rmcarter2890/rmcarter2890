@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rmcarter2890
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning several CompTIA qualifications and how to code using python
-- 📫 How to reach me rmcarter@me.com
 
 <!---
 rmcarter2890/rmcarter2890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
